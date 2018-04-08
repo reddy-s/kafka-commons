@@ -1,6 +1,6 @@
 # Kafka Commons
 
-All the shared interfaces, abstractions and classes are part of this repository. Will be picked up as a dependecy by the [kafka-avro-producer](https://github.com/reddy-s/kafka-avro-producer) and [kafka-avro-consumer](https://github.com/reddy-s/kafka-avro-consumer) applications.
+All the shared interfaces, abstractions and classes are part of this repository. Will be picked up as a dependency by the [kafka-avro-producer](https://github.com/reddy-s/kafka-avro-producer) and [kafka-avro-consumer](https://github.com/reddy-s/kafka-avro-consumer) applications.
 
 ## Prerequisits
 
